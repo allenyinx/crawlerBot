@@ -3,6 +3,7 @@ Crawler agent
 
 <p align="left">
     <a href='https://pypi.python.org/pypi/Scrapy'><img src='https://img.shields.io/pypi/v/Scrapy.svg'></a>
+    <a href="https://codecov.io/gh/allenyinx/crawlerBot"><img src="https://codecov.io/gh/allenyinx/crawlerBot/branch/master/graph/badge.svg" /></a>
     <a href='https://pypi.python.org/pypi/Scrapy'><img src='https://img.shields.io/pypi/pyversions/Scrapy.svg'></a>
     <a href='https://pypi.python.org/pypi/Scrapy'><img src='https://img.shields.io/badge/wheel-yes-brightgreen.svg'></a>
     <a href='https://travis-ci.org/allenyinx/crawlerBot'><img src='https://travis-ci.org/allenyinx/crawlerBot.svg?branch=master'></a>
