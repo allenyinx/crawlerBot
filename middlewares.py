@@ -18,6 +18,7 @@ class ChromeDownloaderMiddleware(object):
     def __init__(self):
         options = webdriver.ChromeOptions()
         options.add_argument('--headless')  # 设置无界面
+        options.add_argument('--disable-dev-shm-usage') # DevToolsActivePort file doesn’t exist while trying to initiate Chrome Browser
         if CHROME_PATH:
             options.binary_location = CHROME_PATH
         if CHROME_DRIVER_PATH:
