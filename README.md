@@ -7,7 +7,7 @@ Crawler agent
     <a href='https://pypi.python.org/pypi/Scrapy'><img src='https://img.shields.io/pypi/pyversions/Scrapy.svg'></a>
     <a href='https://pypi.python.org/pypi/Scrapy'><img src='https://img.shields.io/badge/wheel-yes-brightgreen.svg'></a>
     <a href='https://circleci.com/gh/allenyinx/crawlerBot/tree/master'><img src='https://circleci.com/gh/allenyinx/crawlerBot/tree/master.svg?style=svg'></a>
-    <a href='https://travis-ci.org/allenyinx/crawlerBot'><img src='https://travis-ci.org/allenyinx/crawlerBot.svg?branch=master'></a>
+    <a href='https://travis-ci.org/allenyinx/crawlerBot'><img src='https://travis-ci.org/allenyinx/crawlerBot.svg?branch=master?label=Travis%20CI'></a>
     </p>
 
 # crawlerBot
